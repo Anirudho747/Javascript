@@ -25,6 +25,9 @@ let person = {
     "Age":34,
     "Divorced":true
 }
-
 console.log(typeof person);
 console.log(person)
+
+let studentMarks=[3,2,1]
+console.log(typeof studentMarks);
+console.log(studentMarks)
